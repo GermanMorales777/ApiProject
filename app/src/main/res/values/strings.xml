@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anime Search</string>
+    <string name="btn_search">Search</string>
+    <string name="hint_search">Anime Name (ex. naruto)</string>
+</resources>
